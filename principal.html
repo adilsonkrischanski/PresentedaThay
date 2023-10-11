@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Feliz Aniversário</title>
+    <link rel="icon" href="imagens/core.ico" type="image/png">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+
+        .birthday-container {
+            background-color: #ffffff;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            text-align: center;
+            padding: 20px;
+            width: 400px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .message {
+            margin-bottom: 20px;
+        }
+
+        .image-container {
+            margin-top: 20px;
+        }
+
+        img {
+            width: 200px;
+            height: 200px;
+            border-radius: 10%;
+        }
+
+        .nav-buttons {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        .nav-button {
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            padding: 10px 20px;
+            cursor: pointer;
+        }
+
+        .floating-object {
+            animation: float 3s infinite;
+        }
+
+        @keyframes float {
+            0% {
+                transform: translateY(0);
+            }
+            50% {
+                transform: translateY(-10px);
+            }
+            100% {
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="birthday-container">
+        <div class="message">
+            Feliz Aniversário,
+            <br>
+            <br>
+            Eu passei os últimos 10 dias tentando encontrar as palavras certas para te dizer o quanto você é especial para mim, mas não consigo encontrá-las.
+            <br>
+            <br>
+            Em um dia de verão, você é o sol.
+            <br>
+            Em uma noite de lua cheia, você é o brilho.
+            <br>
+            Em um jogo do Coxa, você é a esperança.
+            <br>
+            Em uma segunda-feira, você é a mensagem de boa semana.
+            <br>
+            Em um sábado à tarde, você é um cochilo no sofá.
+            <br>
+            Na minha notificação preferida, você é a mensagem.
+            <br>
+            <br>
+            Acho que já deu para entender onde estou chegando, mesmo no seu aniversário, acho que o presente fui eu por ter você no meu dia a dia. Tu é incrível.
+        </div>
+
+        <div class="image-container">
+            <img src="imagens/nois.jpeg" alt="Sua Foto" class="floating-object">
+        </div>
+
+        <div class="message">
+            Obrigado por cada momento!
+        </div>
+
+        <div class="nav-buttons">
+            <button class="nav-button" onclick="previousPage()">Anterior</button>
+            <button class="nav-button" onclick="nextPage()">Próximo</button>
+        </div>
+    </div>
+
+    <script>
+        // Função para ir para a página anterior (substitua o link pela página anterior que você deseja)
+        function previousPage() {
+            window.location.href = "page_1.html";
+        }
+
+        // Função para ir para a próxima página (substitua o link pela próxima página que você deseja)
+        function nextPage() {
+            window.location.href = "playlist.html";
+        }
+
+    </script>
+</body>
+</html>

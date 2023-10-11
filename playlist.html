@@ -36,7 +36,7 @@
         .popup {
             display: none;
             position: fixed;
-            top: 50%;
+            top: 48%;
             left: 50%;
             transform: translate(-50%, -50%);
             background-color: white;
@@ -63,19 +63,19 @@
 
         .botoes-container {
             position: fixed;
-            bottom: 20px; /* Ajuste a distância desejada do fundo */
+            bottom: 20px; 
             text-align: center;
-            width: 100%; /* Largura total */
+            width: 100%; 
         }
 
         .botoes-container button {
-            background-color: #4CAF50; /* Cor verde */
+            background-color: #4CAF50; 
             color: white;
             border: none;
             padding: 10px 20px;
             cursor: pointer;
             border-radius: 5px;
-            margin: 10px; /* Espaçamento entre os botões */
+            margin: 10px; 
         }
 
         .playlist-container {
@@ -84,7 +84,7 @@
         }
 
         .playlist-image {
-            width: 50vh; /* Ajuste o tamanho da imagem conforme necessário */
+            width: 50vh;
         }
 
         .playlist-text {
@@ -144,18 +144,18 @@
     
     <script>
         function irParaPaginaAnterior() {
-            window.location.href = "pagina-anterior.html"; // Substitua "pagina-anterior.html" pelo URL da página anterior
+            window.location.href = "principal.html"; 
         }
 
         function irParaProximaPagina() {
-            window.location.href = "proxima-pagina.html"; // Substitua "proxima-pagina.html" pelo URL da próxima página
+            window.location.href = "final.html"; 
         }
 
         function abrirPopup() {
             var popup = document.getElementById("popup");
             popup.style.display = "block";
 
-            // Adicione corações, velas e bolos em locais aleatórios quando abrir o popup
+
             for (var i = 0; i < 10; i++) {
                 var coracao = document.createElement("span");
                 coracao.classList.add("coracao");
@@ -195,7 +195,7 @@
             }
         }
 
-        // Abrir o popup automaticamente quando a página for carregada
+        
         window.onload = function () {
             abrirPopup();
         }
