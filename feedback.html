@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nosso ANO</title>
+    <title>Sugestões e Reclamações</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="Imgs/coracao.avif" type="image/png">
 </head>
@@ -17,16 +17,15 @@
             <li><a href="messages.html" onclick="loadQuote(getDayOfYear());">VER MENSAGENS ANTERIORES</a></li>
         </ul>
     </nav>
-    <h1>Dias do Ano</h1>
-    <p id="days"></p>
-    <div id="quote-box">
-        <p id="quote"></p>
-        <p id="quote-date"></p>
+    <h1>Sugestões e Reclamações</h1>
+    <div id="feedback-box">
+               <textarea id="feedback-text" rows="4" cols="50" placeholder="Escreva sua mensagem..."></textarea>
+    </div>
+    <div class="buttons">
+        <button id="happy-button" onclick="sendFeedback('carinho')">Enviar com 😊</button>
+        <button id="angry-button" onclick="sendFeedback('raiva')">Enviar com 😠</button>
     </div>
     <div id="signature">Adilson Krischanski</div>
-    <script src="quotes.js"></script>
     <script src="script.js"></script>
-    <script src="stiker.js"></script>
-    
 </body>
 </html>

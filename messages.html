@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nosso ANO</title>
+    <title>Mensagens Antigas</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="Imgs/coracao.avif" type="image/png">
 </head>
@@ -17,16 +17,21 @@
             <li><a href="messages.html" onclick="loadQuote(getDayOfYear());">VER MENSAGENS ANTERIORES</a></li>
         </ul>
     </nav>
-    <h1>Dias do Ano</h1>
-    <p id="days"></p>
-    <div id="quote-box">
-        <p id="quote"></p>
-        <p id="quote-date"></p>
+
+    <h1>Mensagens Antigas</h1>
+
+    <label for="select-date">Selecione a data:</label>
+    <input type="date" id="select-date">
+    
+
+    <div id="quote-box" class="quote-box" style="display: none;">
+        <p id="quote">Aqui será exibida a mensagem correspondente à data selecionada.</p>
+        <p id="quote-date">Data: </p>
     </div>
-    <div id="signature">Adilson Krischanski</div>
+
+    <button onclick="showMessage()">Mostrar Mensagem</button>
+
     <script src="quotes.js"></script>
     <script src="script.js"></script>
-    <script src="stiker.js"></script>
-    
 </body>
 </html>
