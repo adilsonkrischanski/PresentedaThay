@@ -137,18 +137,11 @@ function showMessage() {
 
 
 function formatarData(data) {
-    // Divida a string da data em ano, mês e dia
+
     var partesData = data.split('-');
-  
-    // Reorganize as partes para o formato desejado: dd-mm-aaaa
     var dataFormatada = partesData[2] + '-' + partesData[1] + '-' + partesData[0];
   
     return dataFormatada;
   }
-  
-  // Exemplo de uso
-  var dataOriginal = '2023-12-28';
-  var dataFormatada = formatarData(dataOriginal);
-  console.log(dataFormatada);
   
 
