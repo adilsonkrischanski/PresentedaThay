@@ -14,7 +14,7 @@ var quotes = [
         color: "#f0ad4e"
     },
       {
-        phrase: "09-01-2024. Hoje é dia de falar de umas das coias que me conquistou por primeiro, tea personalidade e forma de agir brilhou como uma estrela no céu noturno. A gentileza, a compaixão e a força que vejo em ti são motivos constantes para me apaixonar ainda mais. Obrigado por seres quem és e por fazer parte da minha vida.",
+        phrase: "09-01-2024. Hoje é dia de falar de umas das coias que me conquistou por primeiro, tua personalidade e forma de agir brilhou como uma estrela no céu noturno. A gentileza, a compaixão e a força que vejo em ti são motivos constantes para me apaixonar ainda mais. Obrigado por seres quem és e por fazer parte da minha vida. Feliz dia 9 pra gente, Te Amo mil milhoes meu anjo",
         date: "09-01-2024",
         color: "#5cb85c"
       },
