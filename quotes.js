@@ -59,6 +59,11 @@ var quotes = [
         color: "#3498db"
       },
       {
+        phrase: "18-01-2024.Dia de Desafio, Me surprenda usando a cor Verde.",
+        date: "18-01-2024",
+        color: "#3498db"
+      },
+      {
         phrase: "19-01-2024. A gente, a chama que nos impulsiona, sempre indo além. Somos tipo arquitetos de um destino cheio de conquistas que vai deixar todo mundo de queixo caído.",
         date: "19-01-2024",
         color: "#e74c3c"
