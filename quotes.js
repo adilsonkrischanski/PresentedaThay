@@ -112,7 +112,58 @@ var quotes = [
         phrase: "25-01-2024. Quando a gente entrelaça as mãos, são juras feitas no silêncio, promessas que ecoam além do tempo. Cada passo é uma dança de eternidade, guiada pelo ritmo do nosso amor, que é só nosso.",
         date: "25-01-2024",
         color: "#3498db"
-      }
+      },
+      {
+        phrase: "26-01-2024. Play no nosso dia :)",
+        date: "26-01-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "27-01-2024. Amor, nem sempre as coisas acontecem na ordem e na hora que planejamos, as vezes o universo simplismente nos surprende, mas indendenetemente de oque ele nos reserve, saiba que tu sempre pode contar comigo, eu te amo muito e sou muito grato por te ter na minha vida. Simplismente Te Amo. PS. Essa não era a frase de hj :)",
+        date: "27-01-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "28-01-2024. Em cada batida do meu coração, ecoa o som do nosso amor eterno. Você é a melodia que faz minha vida mais doce.",
+        date: "28-01-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "29-01-2024. Nosso amor é como uma constelação única no céu, brilhando intensamente e iluminando os nossos caminhos juntos.",
+        date: "29-01-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "30-01-2024. Cada momento ao seu lado é um capítulo da nossa história de amor, e mal posso esperar para escrever muitos mais ao seu lado.",
+        date: "30-01-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "31-01-2024. Dia de Desafio, Me manda um video fazendo Brigadeiro :)",
+        date: "31-01-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "01-02-2024. Como as ondas que beijam a areia, meu amor por você é constante e eterno. Cada momento contigo é uma maré de felicidade.",
+        date: "01-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "02-02-2024. Entre bilhões de estrelas no universo, você é a única que ilumina o meu coração. Te amo além das galáxias.",
+        date: "02-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "03-02-2024. Assim como o sol nasce a cada manhã, meu amor por você se renova a cada dia. Você é a luz que aquece minha alma.",
+        date: "03-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "04-02-2024. Em cada sorriso seu, encontro a razão para ser feliz. Você é a luz que ilumina os meus dias mais sombrios.",
+        date: "04-02-2024",
+        color: "#3498db"
+      },
+      
       
 ];
 
