@@ -163,7 +163,37 @@ var quotes = [
         date: "04-02-2024",
         color: "#3498db"
       },
-      
+      {
+        phrase: "05-02-2024. Em meio ao caos do dia a dia ,pude  encontrar me ti o amor, é como descobrir um oásis no deserto. Seu abraço é a calmaria que meu coração precisa para enfrentar as tempestades.",
+        date: "05-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "06-02-2024. Cada dia sabendo que tenho ao meu lado a pessoa mais maravilhosa do mundo é ter de que estamos juntos sendo os autores de uma narrativa cheia de emoções e momentos inesquecíveis.",
+        date: "06-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "07-02-2024. Amar não é olhar um para o outro, é olhar juntos na mesma direção. Nossa jornada é marcada pela união de nossos olhares, rumo a um futuro cheio de realizações.",
+        date: "07-02-2024",
+        color: "#2ecc71"
+      },
+      {
+        phrase: "08-02-2024. A vida é feita de escolhas, e eu escolhi te escolher todos os dias. Em cada decisão, encontro a felicidade de ter o amor mais genuíno ao meu lado, iluminando meu caminho.",
+        date: "08-02-2024",
+        color: "#f39c12"
+      },
+      {
+        phrase: "09-02-2024. Eu não tenho palavras pra descrer o tamanho dos meus sentimentos por ti, dia de te ver chegou :) TEEE AMOOOOOOO <3 <3 <3",
+        date: "09-02-2024",
+        color: "#9b59b6"
+      },
+      {
+        phrase: "10-02-2024. Em meio aos desafios, lembre-se de que as estrelas só brilham no céu noturno. Nossos momentos difíceis são a tela escura que destaca o brilho intenso da nossa superação.",
+        date: "10-02-2024",
+        color: "#e74c3c"
+      }
+       
       
 ];
 
