@@ -184,7 +184,8 @@ var quotes = [
         color: "#f39c12"
       },
       {
-        phrase: "09-02-2024. Eu não tenho palavras pra descrer o tamanho dos meus sentimentos por ti, dia de te ver chegou :) TEEE AMOOOOOOO <3 <3 <3",
+        phrase: "09-02-2024. Hoje fazem 4 meses do nosso primeiro beijo, e com toda certeza aqueles minutinhos foram um dos mais importantes da nossa vida, foi um beijo que mudou o rumo da historia, muito obrigado por cada momento ao teu lado, eu te amo muito muito muito S2 ",
+        // phrase: "09-02-2024. Eu não tenho palavras pra descrer o tamanho dos meus sentimentos por ti, dia de te ver chegou :) TEEE AMOOOOOOO <3 <3 <3",
         date: "09-02-2024",
         color: "#9b59b6"
       },
@@ -192,7 +193,104 @@ var quotes = [
         phrase: "10-02-2024. Em meio aos desafios, lembre-se de que as estrelas só brilham no céu noturno. Nossos momentos difíceis são a tela escura que destaca o brilho intenso da nossa superação.",
         date: "10-02-2024",
         color: "#e74c3c"
+      },
+    
+      {
+        phrase: "11-02-2024. Nosso amor é como uma sinfonia harmoniosa, onde cada nota é uma expressão do nosso carinho e cuidado um pelo outro.",
+        date: "11-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "12-02-2024. Assim como o sol aquece a terra, seu amor aquece minha alma e ilumina meus dias. Você é meu raio de luz constante.",
+        date: "12-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "13-02-2024. Em cada abraço seu, encontro o conforto que preciso para enfrentar os desafios da vida. Você é meu porto seguro.",
+        date: "13-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "14-02-2024. Feliz Dia dos Namorados! Que este dia seja apenas uma amostra do amor que compartilhamos todos os dias. Te amo além das palavras.",
+        date: "14-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "15-02-2024. Em cada olhar seu, encontro a paz que tanto busquei. Você é minha tranquilidade em meio ao caos do mundo.",
+        date: "15-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "16-02-2024. Hojee é dia de ter ver, mal posso esperar pelo pra te abraçar, te beijar e ter só pra mim, loguinho to chegando ai, te amoooo S2",
+        date: "16-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "17-02-2024. Nosso amor é como uma poesia sem fim, onde cada verso é uma declaração do nosso sentimento mais profundo.",
+        date: "17-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "18-02-2024. Como o vento que acaricia suavemente a pele, seu amor me envolve e me faz sentir vivo. Você é minha brisa constante.",
+        date: "18-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "19-02-2024. Entre todos os caminhos que poderia seguir, escolhi o que me leva até você. Pois é ao seu lado que encontro minha verdadeira jornada.",
+        date: "19-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "20-02-2024. Como as flores que desabrocham na primavera, nosso amor floresce a cada novo dia, trazendo cor e beleza às nossas vidas.",
+        date: "20-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "21-02-2024. Em cada momento ao seu lado, descubro novas razões para te amar ainda mais. Você é a essência da minha felicidade.",
+        date: "21-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "22-02-2024. Se o amor fosse uma jornada, eu escolheria você como minha companheira de viagem para toda a eternidade. Te amo além do infinito.",
+        date: "22-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "23-02-2024. Assim como as estrelas no céu, nosso amor é infinito e eterno. Brilharemos juntos por toda a eternidade.",
+        date: "23-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "24-02-2024. Em cada sonho que tenho, você é a estrela guia que ilumina meu caminho. Com você, meus sonhos se tornam realidade.",
+        date: "24-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "25-02-2024. Nosso amor é como uma chama ardente que nunca se apaga, mesmo nos momentos mais sombrios. Você é minha luz perpétua.",
+        date: "25-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "26-02-2024. Assim como as ondas que beijam a costa, seu amor é suave e reconfortante. Você é minha calmaria em meio à tempestade.",
+        date: "26-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "27-02-2024. Em cada sorriso seu, encontro a razão para ser feliz. Seu amor é o presente mais precioso que já recebi.",
+        date: "27-02-2024",
+        color: "#3498db"
+      },
+      {
+        phrase: "28-02-2024. Se o amor fosse uma estrela, você seria o brilho mais intenso do céu. Com você, minha vida é um infinito céu estrelado.",
+        date: "28-02-2024",
+        color: "#e74c3c"
+      },
+      {
+        phrase: "29-02-2024. Mesmo nos anos bissextos, meu amor por você é constante e eterno. Você é minha razão para acreditar na magia do destino.",
+        date: "29-02-2024",
+        color: "#3498db"
       }
+      
        
       
 ];
