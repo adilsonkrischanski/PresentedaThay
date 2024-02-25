@@ -286,12 +286,169 @@ var quotes = [
         color: "#e74c3c"
       },
       {
-        phrase: "29-02-2024. Mesmo nos anos bissextos, meu amor por você é constante e eterno. Você é minha razão para acreditar na magia do destino.",
+        phrase: "29-02-2024. Vamos agradecer por 2024 ser um ano  bissexto,Nesse Ano tenho um dia a mais pra te amar S2.",
         date: "29-02-2024",
         color: "#3498db"
+      },
+      
+      {
+        "phrase": "01-03-2024. Cada amanhecer sabendo que realizei o sonho de namorar a mulher mais maravilhosa do mundo é um lembrete do quanto sou abençoado por ter você em minha vida. TE AMOO",
+        "date": "01-03-2024",
+        "color": "#e74c3c"
+      },
+      {
+        "phrase": "02-03-2024. Seu sorriso é a luz que ilumina até mesmo os dias mais sombrios.",
+        "date": "02-03-2024",
+        "color": "#9b59b6"
+      },
+      {
+        "phrase": "03-03-2024. Com você, cada obstáculo parece uma oportunidade de crescimento e aprendizado.",
+        "date": "03-03-2024",
+        "color": "#2ecc71"
+      },
+      {
+        "phrase": "04-03-2024. Sua presença é como um abraço caloroso que acalma todas as minhas preocupações.",
+        "date": "04-03-2024",
+        "color": "#3498db"
+      },
+      {
+        "phrase": "05-03-2024. O amor que compartilhamos é o tesouro mais precioso que guardo em meu coração.",
+        "date": "05-03-2024",
+        "color": "#e67e22"
+      },
+      {
+        "phrase": "06-03-2024. Seu apoio incondicional é o alicerce sobre o qual construo meus sonhos mais ousados.",
+        "date": "06-03-2024",
+        "color": "#f1c40f"
+      },
+      {
+        "phrase": "07-03-2024. Em seus braços, encontro o conforto e a segurança que alimentam minha alma.",
+        "date": "07-03-2024",
+        "color": "#1abc9c"
+      },
+      {
+        "phrase": "08-03-2024. Você é a musa por trás de cada verso que escrevo, cada música que componho.",
+        "date": "08-03-2024",
+        "color": "#34495e"
+      },
+      {
+        "phrase": "09-03-2024. Com você, descobri que o verdadeiro significado da felicidade está nas pequenas coisas da vida.",
+        "date": "09-03-2024",
+        "color": "#f39c12"
+      },
+      {
+        "phrase": "10-03-2024. Suas palavras de encorajamento são o impulso que preciso para seguir em frente, mesmo nos dias difíceis.",
+        "date": "10-03-2024",
+        "color": "#8e44ad"
+      },
+      {
+        "phrase": "11-03-2024. Seu amor é o farol que me guia através das águas turbulentas da vida.",
+        "date": "11-03-2024",
+        "color": "#d35400"
+      },
+      {
+        "phrase": "12-03-2024. Com você, cada dia é uma aventura cheia de risos, amor e memórias preciosas.",
+        "date": "12-03-2024",
+        "color": "#27ae60"
+      },
+      {
+        "phrase": "13-03-2024. Seus abraços são meu refúgio seguro em um mundo cheio de caos e incerteza.",
+        "date": "13-03-2024",
+        "color": "#c0392b"
+      },
+      {
+        "phrase": "14-03-2024. O brilho em seus olhos é o reflexo da felicidade que você trouxe para minha vida.",
+        "date": "14-03-2024",
+        "color": "#bdc3c7"
+      },
+      {
+        "phrase": "15-03-2024. Hoje o aniversaario é meu e te ter na minha vida é o mior presente que eu podia receber, tu é uma mulher incrivel e faz meus dias serem muito melhores. TE AMOOO MEU ANJOOO.",
+        "date": "15-03-2024",
+        "color": "#bdc3c7"
+      },
+      {
+        "phrase": "16-03-2024. Seu amor me dá asas para voar mais alto do que jamais imaginei ser possível.",
+        "date": "16-03-2024",
+        "color": "#3498db"
+      },
+      {
+        "phrase": "17-03-2024. Nas suas mãos, encontro a paz que tanto anseio em meio ao frenesi da vida cotidiana.",
+        "date": "17-03-2024",
+        "color": "#e74c3c"
+      },
+      {
+        "phrase": "18-03-2024. Com você, aprendi que o verdadeiro amor é paciente, gentil e eterno.",
+        "date": "18-03-2024",
+        "color": "#9b59b6"
+      },
+      {
+        "phrase": "19-03-2024. Seu riso contagia minha alma e enche meu coração de alegria.",
+        "date": "19-03-2024",
+        "color": "#2ecc71"
+      },
+      {
+        "phrase": "20-03-2024. Cada momento ao seu lado é uma dádiva preciosa que guardarei para sempre.",
+        "date": "20-03-2024",
+        "color": "#f1c40f"
+      },
+      {
+        "phrase": "21-03-2024. O amor que sinto por você transcende qualquer barreira, desafio ou distância.",
+        "date": "21-03-2024",
+        "color": "#1abc9c"
+      },
+      {
+        "phrase": "22-03-2024. Seus sonhos se tornam meus sonhos, e juntos construímos um futuro repleto de possibilidades infinitas.",
+        "date": "22-03-2024",
+        "color": "#8e44ad"
+      },
+      {
+        "phrase": "23-03-2024. Suas mãos são meu porto seguro em um mar de incertezas e tempestades.",
+        "date": "23-03-2024",
+        "color": "#d35400"
+      },
+      {
+        "phrase": "24-03-2024. O toque suave dos seus lábios é o bálsamo que acalma minha alma inquieta.",
+        "date": "24-03-2024",
+        "color": "#27ae60"
+      },
+      {
+        "phrase": "25-03-2024. Seu amor é a música que embala meus dias, trazendo harmonia a cada momento.",
+        "date": "25-03-2024",
+        "color": "#c0392b"
+      },
+      {
+        "phrase": "26-03-2024. Com você, descobri o verdadeiro significado da palavra 'felicidade'.",
+        "date": "26-03-2024",
+        "color": "#bdc3c7"
+      },
+      {
+        "phrase": "27-03-2024. Seus olhos são espelhos que refletem a beleza da sua alma e a profundidade do seu amor.",
+        "date": "27-03-2024",
+        "color": "#3498db"
+      },
+      {
+        "phrase": "28-03-2024. O laço que nos une é tão forte que nem mesmo o tempo pode desfazê-lo.",
+        "date": "28-03-2024",
+        "color": "#e74c3c"
+      },
+      {
+        "phrase": "29-03-2024. Seu amor me dá coragem para enfrentar todos os desafios que a vida coloca em nosso caminho.",
+        "date": "29-03-2024",
+        "color": "#9b59b6"
+      },
+      {
+        "phrase": "30-03-2024. Cada dia ao seu lado é uma nova página em nossa história de amor, esperando para ser escrita.",
+        "date": "30-03-2024",
+        "color": "#2ecc71"
+      },
+      {
+        "phrase": "31-03-2024. Obrigado por ser a luz da minha vida, a inspiração por trás de cada sorriso e a razão do meu coração bater mais forte a cada dia.",
+        "date": "31-03-2024",
+        "color": "#f39c12"
       }
       
-       
+      
+
       
 ];
 
