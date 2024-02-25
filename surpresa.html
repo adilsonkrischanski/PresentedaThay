@@ -7,6 +7,11 @@
     <link rel="stylesheet" href="styles.css">
     <link rel="icon" href="imagens/core.ico" type="image/png">
 </head>
+<style>
+    .checkbox-container {
+        text-align: left;
+    }
+</style>
 <body>
     <nav>
         <ul class="navbar">
@@ -19,12 +24,12 @@
         </ul>
     </nav>
     <h1>DATES</h1>
-    <div>
+    <div class="checkbox-container">
         <input type="checkbox" id="jaragua" checked disabled>
-        <label for="jaragua">Rolezinho em jaragua</label><br>
-        <input type="checkbox" id="curitiba">
+        <label for="jaragua">Rolezinho em jaragua (25/26 de Janeiro de 2024)</label><br>
+        <input type="checkbox" id="curitiba" disabled>
         <label for="curitiba">Rolezinho em curitiba</label><br>
-        <input type="checkbox" id="floripa">
+        <input type="checkbox" id="floripa" disabled>
         <label for="floripa">Rolezinho em floripa</label><br>
     </div>
     <button onclick="window.location.href='feedback.html'">Insira Novas Ideias</button>
