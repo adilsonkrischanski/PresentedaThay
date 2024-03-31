@@ -445,11 +445,158 @@ var quotes = [
         "phrase": "31-03-2024. Obrigado por ser a luz da minha vida, a inspiração por trás de cada sorriso e a razão do meu coração bater mais forte a cada dia.",
         "date": "31-03-2024",
         "color": "#f39c12"
-      }
-      
-      
-
-      
+      },
+      {
+        "phrase": "01-04-2024: Em cada amanhecer, meu amor por você se renova, como se cada raio de sol trouxesse consigo mais motivos para te amar.",
+        "date": "01-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "02-04-2024: Nosso amor é a trilha sonora da minha vida, uma melodia suave que embala meus dias e me faz acreditar no poder do amor verdadeiro.",
+        "date": "02-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "03-04-2024: Que neste novo dia, nossos corações estejam alinhados em harmonia, dançando ao ritmo da paixão que nos une.",
+        "date": "03-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "04-04-2024: Como as flores que desabrocham, nosso amor floresce a cada dia, enchendo nossos dias de cores vibrantes e perfumes doces.",
+        "date": "04-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "05-04-2024: Que cada momento seja uma lembrança eterna do quanto você é especial para mim, inspirando-me a ser melhor a cada instante.",
+        "date": "05-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "06-04-2024: Em meio às brisas suaves, encontro a serenidade no calor do seu abraço, onde todo o universo parece se alinhar perfeitamente.",
+        "date": "06-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "07-04-2024: Se o amor fosse uma obra de arte, você seria minha mais bela pintura, minha escultura mais preciosa, meu tesouro mais valioso.",
+        "date": "07-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "08-04-2024: Hoje e sempre, prometo caminhar ao seu lado, enfrentando desafios e celebrando vitórias, pois juntos somos invencíveis.",
+        "date": "08-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "09-04-2024: Nosso amor é como uma chama que nunca se apaga, iluminando nossos caminhos mesmo nos momentos mais sombrios.",
+        "date": "09-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "10-04-2024: Que cada batida do meu coração seja um lembrete do quanto você é amado, do quanto você significa para mim, hoje e para sempre.",
+        "date": "10-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "11-04-2024: Em cada pôr do sol, encontro a certeza de que nosso amor é eterno, tão vasto quanto o horizonte que se estende diante de nós.",
+        "date": "11-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "12-04-2024: Como as estrelas no céu noturno, nosso amor brilha com intensidade, guiando-nos através das trevas e mostrando-nos o caminho para a felicidade.",
+        "date": "12-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "13-04-2024: Que este novo dia seja repleto de sorrisos, abraços e momentos que nos fazem sentir vivos, celebrando o amor que nos une.",
+        "date": "13-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "14-04-2024: Em cada palavra, em cada gesto, em cada olhar, encontro a certeza de que você é a minha pessoa especial, meu porto seguro, minha razão de viver.",
+        "date": "14-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "15-04-2024: Nosso amor é como uma história sem fim, onde cada capítulo é mais emocionante que o anterior, deixando-nos ansiosos para descobrir o que o futuro nos reserva.",
+        "date": "15-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "16-04-2024: Que hoje e sempre possamos ser como dois pássaros livres, voando juntos em direção aos nossos sonhos, alimentando-nos do amor que compartilhamos.",
+        "date": "16-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "17-04-2024: Em cada sorriso seu, encontro a paz que tanto busquei, a felicidade que sempre desejei e o amor que me completa.",
+        "date": "17-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "18-04-2024: Como as ondas que beijam a costa, nosso amor é constante e reconfortante, trazendo consigo uma sensação de calma e serenidade.",
+        "date": "18-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "19-04-2024: Que neste novo dia possamos nos lembrar do poder transformador do nosso amor, capaz de superar qualquer obstáculo que a vida nos apresentar.",
+        "date": "19-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "20-04-2024: Em cada abraço seu, encontro o lar que sempre procurei, o refúgio onde posso ser verdadeiramente eu mesmo, sem reservas, sem medo.",
+        "date": "20-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "21-04-2024: Como as estrelas que pontilham o céu noturno, nosso amor brilha com intensidade, iluminando nossos caminhos e guiando-nos para um futuro cheio de promessas.",
+        "date": "21-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "22-04-2024: Que hoje seja o início de uma nova jornada repleta de amor, cumplicidade e momentos inesquecíveis, onde cada dia seja mais especial que o anterior.",
+        "date": "22-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "23-04-2024: Nosso amor é como uma rosa em plena floração, desabrochando em sua plenitude e enchendo nossas vidas com sua beleza e fragrância irresistível.",
+        "date": "23-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "24-04-2024: Em cada momento ao seu lado, encontro a verdadeira essência da felicidade, a alegria que só o amor genuíno pode proporcionar.",
+        "date": "24-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "25-04-2024: Como os raios de sol que aquecem a terra, seu amor ilumina minha vida, trazendo calor e vitalidade a cada dia que passa.",
+        "date": "25-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "26-04-2024: Que neste novo amanhecer possamos renovar nossos votos de amor, comprometendo-nos a cuidar um do outro e a fazer deste mundo um lugar melhor juntos.",
+        "date": "26-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "27-04-2024: Em cada suspiro, em cada toque, em cada olhar, encontro a confirmação de que nosso amor é verdadeiro, profundo e eterno.",
+        "date": "27-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "28-04-2024: Nosso amor é como uma canção que ecoa pela eternidade, tocando os corações daqueles que têm a sorte de testemunhar sua beleza e grandeza.",
+        "date": "28-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "29-04-2024: Que hoje e sempre possamos celebrar o presente, honrar o passado e sonhar com o futuro, pois juntos não há limites para o que podemos alcançar.",
+        "date": "29-04-2024",
+        "color": "#f39c12"
+    },
+    {
+        "phrase": "30-04-2024: Em cada desafio que enfrentamos juntos, fortalecemos nosso vínculo, solidificando nosso amor e provando que nada pode nos separar.",
+        "date": "30-04-2024",
+        "color": "#f39c12"
+    }
+       
 ];
 
 
