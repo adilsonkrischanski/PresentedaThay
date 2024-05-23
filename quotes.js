@@ -595,7 +595,165 @@ var quotes = [
         "phrase": "30-04-2024: Em cada desafio que enfrentamos juntos, fortalecemos nosso vínculo, solidificando nosso amor e provando que nada pode nos separar.",
         "date": "30-04-2024",
         "color": "#f39c12"
-    }
+    },
+    
+      {
+          "phrase": "01-05-2024: Hojeee é Diaaa de verrr meuu amorr",
+          "date": "01-05-2024",
+          "color": "#e74c3c"
+      },
+      {
+          "phrase": "02-05-2024: Você é a luz que ilumina meus dias e o motivo de todos os meus sorrisos.",
+          "date": "02-05-2024",
+          "color": "#8e44ad"
+      },
+      {
+          "phrase": "03-05-2024: Seu amor me dá forças para enfrentar qualquer desafio e me torna uma pessoa melhor.",
+          "date": "03-05-2024",
+          "color": "#3498db"
+      },
+      {
+          "phrase": "04-05-2024: Em cada momento que passamos juntos, sinto que nosso amor só cresce e se fortalece. Tiiiii Ammuuuuuu ❤❤❤❤ ",
+          "date": "04-05-2024",
+          "color": "#2ecc71"
+      },
+      {
+          "phrase": "05-05-2024: Sua presença é um presente que agradeço todos os dias, pois você é única e especial.",
+          "date": "05-05-2024",
+          "color": "#f1c40f"
+      },
+      {
+          "phrase": "06-05-2024: Você é a razão pela qual acredito no amor verdadeiro e eterno. Tu é a melhorr coisa que ja me aconteceuu ❤❤❤",
+          "date": "06-05-2024",
+          "color": "#e67e22"
+      },
+      {
+          "phrase": "07-05-2024: A cada olhar seu, sinto meu coração se aquecer e minha alma se encher de alegria.",
+          "date": "07-05-2024",
+          "color": "#d35400"
+      },
+      {
+          "phrase": "08-05-2024: Seu carinho e apoio me dão forças para enfrentar qualquer obstáculo que a vida coloque em nosso caminho.",
+          "date": "08-05-2024",
+          "color": "#c0392b"
+      },
+      {
+          "phrase": "09-05-2024: Ao seu lado, descobri que o amor verdadeiro é aquele que nos faz crescer e ser melhores a cada dia.",
+          "date": "09-05-2024",
+          "color": "#2980b9"
+      },
+      {
+          "phrase": "10-05-2024: Você é a mulher mais incrível que já conheci, e sou eternamente grato por te ter na minha vida.",
+          "date": "10-05-2024",
+          "color": "#27ae60"
+      },
+      {
+          "phrase": "11-05-2024: Seu amor me completa e me faz acreditar que juntos somos capazes de tudo.",
+          "date": "11-05-2024",
+          "color": "#8e44ad"
+      },
+      {
+          "phrase": "12-05-2024: Cada momento ao seu lado é uma bênção e uma prova de que o amor verdadeiro existe.",
+          "date": "12-05-2024",
+          "color": "#f39c12"
+      },
+      {
+          "phrase": "13-05-2024: Você é a estrela que guia meu caminho e a razão de todos os meus sonhos.",
+          "date": "13-05-2024",
+          "color": "#e74c3c"
+      },
+      {
+          "phrase": "14-05-2024: Seu amor é a força que me impulsiona a ser melhor a cada dia.",
+          "date": "14-05-2024",
+          "color": "#8e44ad"
+      },
+      {
+          "phrase": "15-05-2024: Você é a peça que faltava no meu quebra-cabeça, completando minha vida de maneira perfeita.",
+          "date": "15-05-2024",
+          "color": "#3498db"
+      },
+      {
+          "phrase": "16-05-2024: Ao seu lado, encontrei a verdadeira felicidade e a certeza de que juntos podemos superar qualquer desafio.",
+          "date": "16-05-2024",
+          "color": "#2ecc71"
+      },
+      {
+          "phrase": "17-05-2024: Sua presença em minha vida é um presente inestimável, e cada dia ao seu lado é uma bênção.",
+          "date": "17-05-2024",
+          "color": "#f1c40f"
+      },
+      {
+          "phrase": "18-05-2024: Você é a mulher mais maravilhosa do mundo, e sou eternamente grato por tê-la ao meu lado.",
+          "date": "18-05-2024",
+          "color": "#e67e22"
+      },
+      {
+          "phrase": "19-05-2024: Seu amor me dá a força necessária para enfrentar qualquer desafio e me faz acreditar em um futuro brilhante juntos.",
+          "date": "19-05-2024",
+          "color": "#d35400"
+      },
+      {
+          "phrase": "20-05-2024: Ao seu lado, cada dia é uma nova aventura cheia de amor e felicidade.",
+          "date": "20-05-2024",
+          "color": "#c0392b"
+      },
+      {
+          "phrase": "21-05-2024: Seu sorriso é a luz que ilumina meu caminho, tornando meus dias mais brilhantes e felizes.",
+          "date": "21-05-2024",
+          "color": "#2980b9"
+      },
+      {
+          "phrase": "22-05-2024: Amo-te não só pelo que tu é , mas também por quem tu me faz ser  uma nova pessoa a cada dia, sempre crescendo justos ❤",
+          "date": "22-05-2024",
+          "color": "#27ae60"
+      },
+      {
+          "phrase": "23-05-2024: O nosso Amor é melhor Ventura e melhor experiencia que eu ja vivi, a gente pra sempree S2",
+          "date": "23-05-2024",
+          "color": "#8e44ad"
+      },
+      {
+          "phrase": "24-05-2024: Seu carinho e compreensão tornam minha vida mais fácil e repleta de alegria.",
+          "date": "24-05-2024",
+          "color": "#f39c12"
+      },
+      {
+          "phrase": "25-05-2024: Você é a razão pela qual meu coração bate mais forte e minha vida é mais brilhante.",
+          "date": "25-05-2024",
+          "color": "#e74c3c"
+      },
+      {
+          "phrase": "26-05-2024: Sua força e beleza me inspiram a ser uma pessoa melhor a cada dia.",
+          "date": "26-05-2024",
+          "color": "#8e44ad"
+      },
+      {
+          "phrase": "27-05-2024: Juntos, somos invencíveis e nosso amor é a nossa maior arma contra qualquer adversidade.",
+          "date": "27-05-2024",
+          "color": "#3498db"
+      },
+      {
+          "phrase": "28-05-2024: Você é a mulher mais incrível que já conheci, e cada dia ao seu lado é um presente.",
+          "date": "28-05-2024",
+          "color": "#2ecc71"
+      },
+      {
+          "phrase": "29-05-2024: Sua presença transforma minha vida, trazendo paz e felicidade incomparáveis.",
+          "date": "29-05-2024",
+          "color": "#f1c40f"
+      },
+      {
+          "phrase": "30-05-2024: Sua bondade e amor incondicional fazem do mundo um lugar melhor.",
+          "date": "30-05-2024",
+          "color": "#e67e22"
+      },
+      {
+          "phrase": "31-05-2024: Cada momento com você é um capítulo perfeito em nossa história de amor.",
+          "date": "31-05-2024",
+          "color": "#d35400"
+      }
+  
+  
        
 ];
 
