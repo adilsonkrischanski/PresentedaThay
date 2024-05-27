@@ -750,8 +750,163 @@ var quotes = [
         "phrase": "31-05-2024: Cada momento com você é um capítulo perfeito em nossa história de amor.",
         "date": "31-05-2024",
         "color": "#d35400"
-    }
+    },
 
+    {
+        "phrase": "01-06-2024: O amor floresce em cada novo dia como as pétalas de uma rosa desabrochando.",
+        "date": "01-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "02-06-2024: Cada sorriso compartilhado é uma obra-prima em nossa galeria de felicidade.",
+        "date": "02-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "03-06-2024: Nosso amor é uma sinfonia de sentimentos, harmonizando nossos corações.",
+        "date": "03-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "04-06-2024: Nas páginas do tempo, nosso amor é uma história eterna, escrita com ternura.",
+        "date": "04-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "05-06-2024: Juntos, somos a calma no meio da tempestade, a luz na escuridão.",
+        "date": "05-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "06-06-2024: Cada abraço é um elo que fortalece os laços invisíveis que nos unem.",
+        "date": "06-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "07-06-2024: Nosso amor é como uma constelação única, brilhando em meio ao vasto universo.",
+        "date": "07-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "08-06-2024: Como uma canção antiga, nosso amor ressoa através das eras, eterno e imutável.",
+        "date": "08-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "09-06-2024: Cada olhar trocado é um poema silencioso, dizendo mais do que mil palavras.",
+        "date": "09-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "10-06-2024: Nossos corações dançam juntos ao ritmo suave da melodia do amor.",
+        "date": "10-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "11-06-2024: Juntos, somos uma pintura vívida, colorindo o mundo com nossa paleta de emoções.",
+        "date": "11-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "12-06-2024: Como dois pássaros voando em sincronia, nosso amor alcança alturas inimagináveis.",
+        "date": "12-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "13-06-2024: Em cada suspiro, encontramos a serenidade que só o amor verdadeiro pode proporcionar.",
+        "date": "13-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "14-06-2024: Nossos sorrisos são como raios de sol, iluminando até os dias mais sombrios.",
+        "date": "14-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "15-06-2024: Juntos, somos uma fortaleza invencível, enfrentando o mundo com coragem e amor.",
+        "date": "15-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "16-06-2024: Como as estrelas no céu noturno, nosso amor brilha com uma luz única e especial.",
+        "date": "16-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "17-06-2024: Cada momento ao seu lado é um presente precioso que guardo em meu coração.",
+        "date": "17-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "18-06-2024: Nossa jornada juntos é uma aventura emocionante, cheia de surpresas e descobertas.",
+        "date": "18-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "19-06-2024: Como uma árvore robusta, nosso amor cresce mais forte a cada estação que passa.",
+        "date": "19-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "20-06-2024: Cada momento ao seu lado é uma bênção que agradeço todos os dias.",
+        "date": "20-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "21-06-2024: Nosso amor é como um farol na escuridão, guiando-nos através das incertezas da vida.",
+        "date": "21-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "22-06-2024: Juntos, somos mais fortes do que qualquer obstáculo que possa surgir em nosso caminho.",
+        "date": "22-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "23-06-2024: Como as ondas do mar, nosso amor é infinito, sempre em movimento e sempre presente.",
+        "date": "23-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "24-06-2024: Em cada respiração, sinto a essência do nosso amor, nutrindo minha alma.",
+        "date": "24-06-2024",
+        "color": "#d35400"
+    },
+    {
+        "phrase": "25-06-2024: Nossas mãos entrelaçadas são um lembrete constante de que nunca estamos sozinhos.",
+        "date": "25-06-2024",
+        "color": "#d35400"
+    },
+    {
+    "phrase": "26-06-2024: Como um arco-íris após uma tempestade, nosso amor é a promessa de dias melhores após as adversidades",
+    "date": "27-06-2024",
+    "color": "#d35400"
+    },
+    {
+    "phrase": "27-06-2024: Em cada risada compartilhada, encontro a verdadeira essência da felicidade ao seu lado.",
+    "date": "27-06-2024",
+    "color": "#d35400"
+    },
+    {
+    "phrase": "28-06-2024: Juntos, construímos um castelo de sonhos, onde nossa imaginação não tem limites.",
+    "date": "28-06-2024",
+    "color": "#d35400"
+    },
+    {
+    "phrase": "29-06-2024: Cada desafio que enfrentamos fortalece ainda mais os laços que nos unem.",
+    "date": "29-06-2024",
+    "color": "#d35400"
+    },
+    {
+    "phrase": "30-06-2024: Como as estrelas cadentes no céu, nossos desejos se realizam quando estamos juntos.",
+    "date": "30-06-2024",
+    "color": "#d35400"
+    },
+    {
+    "phrase": "01-07-2024: O amor é a luz que ilumina o caminho nas noites mais escuras da vida.",
+    "date": "01-07-2024",
+    "color": "#d35400"
+    }
   
        
 ];
