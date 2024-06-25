@@ -873,7 +873,7 @@ var quotes = [
         "color": "#d35400"
     },
     {
-        "phrase": "25-06-2024: Nossas mãos entrelaçadas são um lembrete constante de que nunca estamos sozinhos.",
+        "phrase": "25-06-2024: Inicialmente tinha um desafio aqui, mas preciso que tu esteja bem recuperada pra fazer, então adiei e coloque uma frase no lugar' Nossas mãos  entrelaçadas são um lembrete constante de que nunca estamos sozinhos. Teee Amooooo Minhaaa Princesaa ❤❤❤'",
         "date": "25-06-2024",
         "color": "#d35400"
     },
