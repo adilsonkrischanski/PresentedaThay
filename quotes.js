@@ -878,8 +878,10 @@ var quotes = [
         "color": "#d35400"
     },
     {
+
     "phrase": "26-06-2024: Como um arco-íris após uma tempestade, nosso amor é a promessa de dias melhores após as adversidades",
-    "date": "27-06-2024",
+
+    "date": "26-06-2024",
     "color": "#d35400"
     },
     {
