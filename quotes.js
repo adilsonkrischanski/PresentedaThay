@@ -905,10 +905,161 @@ var quotes = [
     "color": "#d35400"
     },
     {
-    "phrase": "01-07-2024: O amor é a luz que ilumina o caminho nas noites mais escuras da vida.",
-    "date": "01-07-2024",
-    "color": "#d35400"
-    }
+      "phrase": "01-07-2024: O amor é a luz que ilumina o caminho nas noites mais escuras da vida.",
+      "date": "01-07-2024",
+      "color": "#d35400"
+  },
+  {
+      "phrase": "02-07-2024: Cada sorriso seu é um raio de sol que aquece meu coração.",
+      "date": "02-07-2024",
+      "color": "#ff7675"
+  },
+  {
+      "phrase": "03-07-2024: Quando estou com você, o mundo inteiro parece parar e só nós existimos.",
+      "date": "03-07-2024",
+      "color": "#55efc4"
+  },
+  {
+      "phrase": "04-07-2024: Seu amor é a melodia que faz meu coração dançar.",
+      "date": "04-07-2024",
+      "color": "#74b9ff"
+  },
+  {
+      "phrase": "05-07-2024: Seus olhos são como estrelas que iluminam meu universo.",
+      "date": "05-07-2024",
+      "color": "#a29bfe"
+  },
+  {
+      "phrase": "06-07-2024: Amar você é descobrir o infinito em cada instante ao seu lado.",
+      "date": "06-07-2024",
+      "color": "#fd79a8"
+  },
+  {
+      "phrase": "07-07-2024: Em seus braços, encontrei o lar que sempre procurei.",
+      "date": "07-07-2024",
+      "color": "#e17055"
+  },
+  {
+      "phrase": "08-07-2024: Seu amor é o farol que guia meu caminho nos dias mais sombrios.",
+      "date": "08-07-2024",
+      "color": "#00b894"
+  },
+  {
+      "phrase": "09-07-2024: Cada momento ao seu lado é uma página escrita no livro do amor.",
+      "date": "09-07-2024",
+      "color": "#0984e3"
+  },
+  {
+      "phrase": "10-07-2024: Seu beijo é o encanto que transforma o comum em extraordinário.",
+      "date": "10-07-2024",
+      "color": "#6c5ce7"
+  },
+  {
+      "phrase": "11-07-2024: Amar você é como viver em um sonho do qual nunca quero acordar.",
+      "date": "11-07-2024",
+      "color": "#fab1a0"
+  },
+  {
+      "phrase": "12-07-2024: Seu amor é a poesia que dá ritmo ao meu coração.",
+      "date": "12-07-2024",
+      "color": "#ff7675"
+  },
+  {
+      "phrase": "13-07-2024: Cada abraço seu é um refúgio de paz e carinho.",
+      "date": "13-07-2024",
+      "color": "#55efc4"
+  },
+  {
+      "phrase": "14-07-2024: Com você, aprendi que o amor verdadeiro é eterno e imutável.",
+      "date": "14-07-2024",
+      "color": "#74b9ff"
+  },
+  {
+      "phrase": "15-07-2024: Seu sorriso é o meu amanhecer, a promessa de um novo dia de felicidade.",
+      "date": "15-07-2024",
+      "color": "#a29bfe"
+  },
+  {
+      "phrase": "16-07-2024: Amar você é mergulhar em um oceano de emoções e nunca desejar voltar à superfície.",
+      "date": "16-07-2024",
+      "color": "#fd79a8"
+  },
+  {
+      "phrase": "17-07-2024: Seu amor é o presente mais precioso que a vida me deu.",
+      "date": "17-07-2024",
+      "color": "#e17055"
+  },
+  {
+      "phrase": "18-07-2024: Cada palavra sua é uma declaração de amor que ecoa em meu coração.",
+      "date": "18-07-2024",
+      "color": "#00b894"
+  },
+  {
+      "phrase": "19-07-2024: Com você, até os silêncios são cheios de significados.",
+      "date": "19-07-2024",
+      "color": "#0984e3"
+  },
+  {
+      "phrase": "20-07-2024: Amar você é um eterno romance que nunca se cansa de surpreender.",
+      "date": "20-07-2024",
+      "color": "#6c5ce7"
+  },
+  {
+      "phrase": "21-07-2024: Em seus olhos, encontrei o reflexo de todas as minhas esperanças e sonhos.",
+      "date": "21-07-2024",
+      "color": "#fab1a0"
+  },
+  {
+      "phrase": "22-07-2024: Seu toque é a magia que transforma um dia comum em uma história de amor.",
+      "date": "22-07-2024",
+      "color": "#ff7675"
+  },
+  {
+      "phrase": "23-07-2024: Amar você é como encontrar um tesouro que enriquece minha alma.",
+      "date": "23-07-2024",
+      "color": "#55efc4"
+  },
+  {
+      "phrase": "24-07-2024: Com você, cada dia é um capítulo inesquecível da nossa história de amor.",
+      "date": "24-07-2024",
+      "color": "#74b9ff"
+  },
+  {
+      "phrase": "25-07-2024: Seu amor é o jardim onde florescem as mais belas emoções.",
+      "date": "25-07-2024",
+      "color": "#a29bfe"
+  },
+  {
+      "phrase": "26-07-2024: Em cada beijo, sinto a eternidade de nosso amor.",
+      "date": "26-07-2024",
+      "color": "#fd79a8"
+  },
+  {
+      "phrase": "27-07-2024: Amar você é a certeza de que encontrei meu lugar no mundo.",
+      "date": "27-07-2024",
+      "color": "#e17055"
+  },
+  {
+      "phrase": "28-07-2024: Seu amor é a chama que mantém acesa a paixão em meu coração.",
+      "date": "28-07-2024",
+      "color": "#00b894"
+  },
+  {
+      "phrase": "29-07-2024: Com você, cada pôr do sol é mais lindo, e cada amanhecer, mais promissor.",
+      "date": "29-07-2024",
+      "color": "#0984e3"
+  },
+  {
+      "phrase": "30-07-2024: Seu amor é a melodia que dá ritmo aos meus dias e serenidade às minhas noites.",
+      "date": "30-07-2024",
+      "color": "#6c5ce7"
+  },
+  {
+      "phrase": "31-07-2024: Amar você é a jornada mais linda que já empreendi.",
+      "date": "31-07-2024",
+      "color": "#fab1a0"
+  }
+  
   
        
 ];
