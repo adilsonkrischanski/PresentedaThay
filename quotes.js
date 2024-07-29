@@ -1055,10 +1055,167 @@ var quotes = [
       "color": "#6c5ce7"
   },
   {
-      "phrase": "31-07-2024: Amar você é a jornada mais linda que já empreendi.",
+      "phrase": "31-07-2024: Mais um mes chegando ao fim, me surprendaa HJ :))",
       "date": "31-07-2024",
       "color": "#fab1a0"
-  }
+  },
+
+    {
+      "phrase": "01-08-2024: Desafio do dia - Faz uma listi de 3 coisas pra gente fazer esse mes e me mandaa :)).",
+      "date": "01-08-2024",
+      "color": "#ff9ff3"
+    },
+    {
+      "phrase": "02-08-2024: Acredite em si mesmo e em tudo que você é. Saiba que há algo dentro de você que é maior do que qualquer obstáculo.",
+      "date": "02-08-2024",
+      "color": "#55efc4"
+    },
+    {
+      "phrase": "03-08-2024: Cada momento ao seu lado é uma benção que agradeço todos os dias.",
+      "date": "03-08-2024",
+      "color": "#fdcb6e"
+    },
+    {
+      "phrase": "04-08-2024: O sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "date": "04-08-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "05-08-2024: Seu sorriso é a minha luz na escuridão.",
+      "date": "05-08-2024",
+      "color": "#ff7675"
+    },
+    {
+      "phrase": "06-08-2024: Nunca desista dos seus sonhos, mesmo que eles pareçam impossíveis.",
+      "date": "06-08-2024",
+      "color": "#a29bfe"
+    },
+    {
+      "phrase": "07-08-2024: Cada batida do meu coração é uma declaração de amor por você.",
+      "date": "07-08-2024",
+      "color": "#fd79a8"
+    },
+    {
+      "phrase": "08-08-2024: Grandes coisas nunca vêm de zonas de conforto.",
+      "date": "08-08-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "09-08-2024: Estar com você é como um sonho que nunca quero acordar.",
+      "date": "09-08-2024",
+      "color": "#00cec9"
+    },
+    {
+      "phrase": "10-08-2024: Desafio do dia - Faça algo hoje que o seu futuro agradeça.",
+      "date": "10-08-2024",
+      "color": "#e17055"
+    },
+    {
+      "phrase": "11-08-2024: A vida é 10% do que acontece com você e 90% de como você reage a isso. (copiei de algum lugar, mas é a gente que faz nosso futuro)",
+      "date": "11-08-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "12-08-2024: Você é a razão pela qual acredito no amor verdadeiro. S2",
+      "date": "12-08-2024",
+      "color": "#81ecec"
+    },
+    {
+      "phrase": "13-08-2024: O único lugar onde o sucesso vem antes do trabalho é no dicionário. Bora Lutar pelo que a gente sonha",
+      "date": "13-08-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "14-08-2024: Meu amor por você cresce mais a cada dia que passa.",
+      "date": "14-08-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "15-08-2024: A chave para o sucesso é começar antes de estar pronto.",
+      "date": "15-08-2024",
+      "color": "#fdcb6e"
+    },
+    {
+      "phrase": "16-08-2024: Cada segundo ao seu lado é uma eternidade de felicidade.",
+      "date": "16-08-2024",
+      "color": "#ff7675"
+    },
+    {
+      "phrase": "17-08-2024: O fracasso é apenas a oportunidade de começar de novo, desta vez de forma mais inteligente.",
+      "date": "17-08-2024",
+      "color": "#55efc4"
+    },
+    {
+      "phrase": "18-08-2024: Amar você é a melhor parte do meu dia. Tu é o meu lugar Preferidoo",
+      "date": "18-08-2024",
+      "color": "#fd79a8"
+    },
+    {
+      "phrase": "19-08-2024: Se você pode sonhar, você pode realizar. Nunca desista dos teus sonhos meu anjoo",
+      "date": "19-08-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "20-08-2024: Você é meu sonho que se tornou realidade. teee amoooo",
+      "date": "20-08-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "21-08-2024: Sucesso é a soma de pequenos esforços repetidos dia após dia.",
+      "date": "21-08-2024",
+      "color": "#81ecec"
+    },
+    {
+      "phrase": "22-08-2024: Cada vez que vejo teu sorriso meu coração fica quentinhoo.",
+      "date": "22-08-2024",
+      "color": "#e17055"
+    },
+    {
+      "phrase": "23-08-2024: Não importa o quão devagar você vá, desde que você não pare.",
+      "date": "23-08-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "24-08-2024: Você é o amor da minha vida, hoje e sempreee.",
+      "date": "24-08-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "25-08-2024: O sucesso não é a chave para a felicidade. A felicidade é a chave para o sucesso.",
+      "date": "25-08-2024",
+      "color": "#55efc4"
+    },
+    {
+      "phrase": "26-08-2024: Desafio do dia - Faça uma boa ação anonimamente. o mundo precisa de tii",
+      "date": "26-08-2024",
+      "color": "#fdcb6e"
+    },
+    {
+      "phrase": "27-08-2024: Você é a melhor parte dos meus dias.",
+      "date": "27-08-2024",
+      "color": "#ff7675"
+    },
+    {
+      "phrase": "28-08-2024: Acredite em si mesmo e em tudo que você é.",
+      "date": "28-08-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "29-08-2024: Meu amor por você é infinito e eterno.",
+      "date": "29-08-2024",
+      "color": "#fd79a8"
+    },
+    {
+      "phrase": "30-08-2024: A persistência é o caminho do êxito.",
+      "date": "30-08-2024",
+      "color": "#81ecec"
+    },
+    {
+      "phrase": "31-08-2024: Amar você é a jornada mais linda que já empreendi.",
+      "date": "31-08-2024",
+      "color": "#fab1a0"
+    }
+   
   
   
        
