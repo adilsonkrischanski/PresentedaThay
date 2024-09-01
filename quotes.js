@@ -1214,7 +1214,159 @@ var quotes = [
       "phrase": "31-08-2024: Amar você é a jornada mais linda que já empreendi.",
       "date": "31-08-2024",
       "color": "#fab1a0"
+    },
+    {
+      "phrase": "01-09-2024: O amor verdadeiro é como um farol em meio à tempestade.",
+      "date": "01-09-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "02-09-2024: Cada dia ao seu lado é um presente que nunca imaginei receber.",
+      "date": "02-09-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "03-09-2024: 'Não é o amor que sustenta o relacionamento, é o modo de se relacionar que sustenta o amor.' – O Pequeno Príncipe",
+      "date": "03-09-2024",
+      "color": "#a29bfe"
+    },
+    {
+      "phrase": "04-09-2024: Você é a razão pela qual acredito na beleza dos dias simples.",
+      "date": "04-09-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "05-09-2024: Amar é dar as mãos, mesmo quando o caminho é incerto.",
+      "date": "05-09-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "06-09-2024: 'Ame o que faz e não precisará trabalhar um dia sequer.' – Confúcio",
+      "date": "06-09-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "07-09-2024: Nos seus olhos, encontro o mundo que sempre quis explorar.",
+      "date": "07-09-2024",
+      "color": "#81ecec"
+    },
+    {
+      "phrase": "08-09-2024: A vida é mais bela quando compartilhada com quem se ama.",
+      "date": "08-09-2024",
+      "color": "#a29bfe"
+    },
+    {
+      "phrase": "09-09-2024: 'E em seus braços, encontrei o meu lar.' – Jane Austen",
+      "date": "09-09-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "10-09-2024: Nosso amor é a força que move montanhas e supera desafios.",
+      "date": "10-09-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "11-09-2024: 'Tudo o que você pode imaginar é real.' – Pablo Picasso",
+      "date": "11-09-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "12-09-2024: Seu sorriso ilumina até os dias mais sombrios.",
+      "date": "12-09-2024",
+      "color": "#81ecec"
+    },
+    {
+      "phrase": "13-09-2024: Ao seu lado, aprendi que o amor não tem limites.",
+      "date": "13-09-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "14-09-2024: 'O essencial é invisível aos olhos.' – O Pequeno Príncipe",
+      "date": "14-09-2024",
+      "color": "#a29bfe"
+    },
+    {
+      "phrase": "15-09-2024: Cada momento contigo é um capítulo inesquecível da minha vida.",
+      "date": "15-09-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "16-09-2024: Você é a poesia que eu nunca soube que precisava.",
+      "date": "16-09-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "17-09-2024: 'Amar é encontrar na felicidade do outro a própria felicidade.' – Gottfried Leibniz",
+      "date": "17-09-2024",
+      "color": "#81ecec"
+    },
+    {
+      "phrase": "18-09-2024: Com você, cada dia é uma nova oportunidade de ser feliz.",
+      "date": "18-09-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "19-09-2024: A sua presença transforma a minha vida em um mar de tranquilidade.",
+      "date": "19-09-2024",
+      "color": "#a29bfe"
+    },
+    {
+      "phrase": "20-09-2024: 'O amor não se vê com os olhos, mas com o coração.' – William Shakespeare",
+      "date": "20-09-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "21-09-2024: Seu amor é a melodia que toca incessantemente em minha alma.",
+      "date": "21-09-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "22-09-2024: Cada vez que penso em você, meu coração sorri.",
+      "date": "22-09-2024",
+      "color": "#81ecec"
+    },
+    {
+      "phrase": "23-09-2024: O amor é a arte de transformar o comum em extraordinário.",
+      "date": "23-09-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "24-09-2024: 'O maior ato de coragem é amar alguém incondicionalmente.' – Michael Leunig",
+      "date": "24-09-2024",
+      "color": "#a29bfe"
+    },
+    {
+      "phrase": "25-09-2024: Seu abraço é meu porto seguro, onde encontro paz e felicidade.",
+      "date": "25-09-2024",
+      "color": "#ffeaa7"
+    },
+    {
+      "phrase": "26-09-2024: 'O amor é o triunfo da imaginação sobre a inteligência.' – H. L. Mencken",
+      "date": "26-09-2024",
+      "color": "#74b9ff"
+    },
+    {
+      "phrase": "27-09-2024: Nos seus olhos, vejo o reflexo de um futuro brilhante ao nosso lado.",
+      "date": "27-09-2024",
+      "color": "#81ecec"
+    },
+    {
+      "phrase": "28-09-2024: Seu amor é a luz que guia meu caminho, mesmo nas noites mais escuras.",
+      "date": "28-09-2024",
+      "color": "#fab1a0"
+    },
+    {
+      "phrase": "29-09-2024: O amor é a linguagem universal que todos os corações entendem.",
+      "date": "29-09-2024",
+      "color": "#a29bfe"
+    },
+    {
+      "phrase": "30-09-2024: 'Amar é transformar a realidade em sonhos.' – Jorge Amado",
+      "date": "30-09-2024",
+      "color": "#ffeaa7"
     }
+    
+    
    
   
   
