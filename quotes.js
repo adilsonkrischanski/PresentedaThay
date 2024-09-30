@@ -1364,13 +1364,164 @@ var quotes = [
       "phrase": "30-09-2024: 'Amar é transformar a realidade em sonhos.' – Jorge Amado",
       "date": "30-09-2024",
       "color": "#ffeaa7"
+    },
+    {
+      "phrase": "01-10-2024: 'E começou o melhor mes do ano, o primeiro passo para o sucesso é acreditar em si mesmo.'",
+      "date": "01-10-2024",
+      "color": "#ffeaa7"
+    },
+    {
+        "phrase": "02-10-2024: 'Faltam 10 dias: Cada passo dado hoje constrói o caminho para o amanhã, e o amanha é o pra sempree ❤️❤️❤️❤️'",
+        "date": "02-10-2024",
+        "color": "#fab1a0"
+    },
+    {
+        "phrase": "03-10-2024: 'Faltam 9 dias: A perseverança transforma sonhos em realidade.'",
+        "date": "03-10-2024",
+        "color": "#ff7675"
+    },
+    {
+        "phrase": "04-10-2024: 'Faltam 8 dias: Pequenas conquistas diárias levam a grandes vitórias. ajuda uma pessoa hj :)'",
+        "date": "04-10-2024",
+        "color": "#fd79a8"
+    },
+    {
+        "phrase": "05-10-2024: 'Faltam 7 dias: Encare os desafios com coragem, eles te fortalecem.'",
+        "date": "05-10-2024",
+        "color": "#e84393"
+    },
+    {
+        "phrase": "06-10-2024: 'Faltam 6 dias: Achou que ia ser só textinho fofo, hj é dia de desafio: Explique o papel do ciclo do hidrogênio na Terra, destacando sua relação com o ciclo da água e o ciclo do carbono. Em sua resposta, mencione as principais transformações do hidrogênio em processos biológicos e geológicos, bem como sua importância para os sistemas naturais e tecnológicos.'",
+        "date": "06-10-2024",
+        "color": "#d63031"
+    },
+    {
+        "phrase": "07-10-2024: 'Faltam 5 dias: A cada amanhecer, uma nova chance de recomeçar. Hoje eu te amo mais que ontem e menos que amanha ❤️❤️❤️❤️❤️'",
+        "date": "07-10-2024",
+        "color": "#fdcb6e"
+    },
+    {
+        "phrase": "08-10-2024: 'Faltam 4 dias: Com determinação, você pode superar qualquer obstáculo.'",
+        "date": "08-10-2024",
+        "color": "#55efc4"
+    },
+    {
+        "phrase": "09-10-2024: 'Faltam 3 dias: A contagem é pro meu aniversario. mas hj a gente ta fazz um anoo do primeiro beijoo. teeeeee amooooooooo ❤️❤️❤️'",
+        "date": "09-10-2024",
+        "color": "#74b9ff"
+    },
+    {
+        "phrase": "10-10-2024: 'Faltam 2 dias: Tu é a pessoinha que eu mais adimiro nesse mundo Todinhooo, hj faz um anoo da primeira rosa que eu te dei  ❤️❤️❤️❤️❤️'",
+        "date": "10-10-2024",
+        "color": "#a29bfe"
+    },
+    {
+        "phrase": "11-10-2024: 'Hoje é dia da mulher mais incrívell do mundooo, minhaa velhinhaaa '",
+        "date": "11-10-2024",
+        "color": "#ffeaa7"
+    },
+    {
+        "phrase": "12-10-2024: 'A alegria de hoje é a força para os desafios de amanhã.'",
+        "date": "12-10-2024",
+        "color": "#fab1a0"
+    },
+    {
+        "phrase": "13-10-2024: 'A gratidão transforma o que temos em suficiente.'",
+        "date": "13-10-2024",
+        "color": "#ff7675"
+    },
+    {
+        "phrase": "14-10-2024: 'O que você planta hoje, florescerá amanhã.'",
+        "date": "14-10-2024",
+        "color": "#fd79a8"
+    },
+    {
+        "phrase": "15-10-2024: 'O sucesso é a soma de pequenos esforços repetidos diariamente.'",
+        "date": "15-10-2024",
+        "color": "#e84393"
+    },
+    {
+        "phrase": "16-10-2024: 'Acreditar em si mesmo é o primeiro passo para qualquer conquista.'",
+        "date": "16-10-2024",
+        "color": "#d63031"
+    },
+    {
+        "phrase": "17-10-2024: 'A vida é feita de momentos; aproveite cada um deles.'",
+        "date": "17-10-2024",
+        "color": "#fdcb6e"
+    },
+    {
+        "phrase": "18-10-2024: 'O melhor ainda está por vir, continue acreditando.'",
+        "date": "18-10-2024",
+        "color": "#55efc4"
+    },
+    {
+        "phrase": "19-10-2024: 'Não espere o momento perfeito, faça do agora o seu momento.'",
+        "date": "19-10-2024",
+        "color": "#74b9ff"
+    },
+    {
+        "phrase": "20-10-2024: 'Seja a mudança que você deseja ver no mundo.'",
+        "date": "20-10-2024",
+        "color": "#a29bfe"
+    },
+    {
+        "phrase": "21-10-2024: 'A maior riqueza é viver com propósito.'",
+        "date": "21-10-2024",
+        "color": "#ffeaa7"
+    },
+    {
+        "phrase": "22-10-2024: 'Com cada escolha, construímos o nosso futuro.'",
+        "date": "22-10-2024",
+        "color": "#fab1a0"
+    },
+    {
+        "phrase": "23-10-2024: 'A paciência é a chave para grandes realizações.'",
+        "date": "23-10-2024",
+        "color": "#ff7675"
+    },
+    {
+        "phrase": "24-10-2024: 'O otimismo é o imã da felicidade.'",
+        "date": "24-10-2024",
+        "color": "#fd79a8"
+    },
+    {
+        "phrase": "25-10-2024: 'Siga em frente com coragem, o melhor está por vir.'",
+        "date": "25-10-2024",
+        "color": "#e84393"
+    },
+    {
+        "phrase": "26-10-2024: 'A determinação é o que separa os grandes dos comuns.'",
+        "date": "26-10-2024",
+        "color": "#d63031"
+    },
+    {
+        "phrase": "27-10-2024: 'Acredite, o universo sempre conspira a favor de quem se esforça.'",
+        "date": "27-10-2024",
+        "color": "#fdcb6e"
+    },
+    {
+        "phrase": "28-10-2024: 'Faça o que puder, com o que tem, onde estiver.'",
+        "date": "28-10-2024",
+        "color": "#55efc4"
+    },
+    {
+        "phrase": "29-10-2024: 'O maior poder está dentro de você.'",
+        "date": "29-10-2024",
+        "color": "#74b9ff"
+    },
+    {
+        "phrase": "30-10-2024: 'A vida é feita de escolhas, e cada escolha define o nosso destino.'",
+        "date": "30-10-2024",
+        "color": "#a29bfe"
+    },
+    {
+        "phrase": "31-10-2024: 'Encerramos outubro, mas novos começos sempre surgem no horizonte.'",
+        "date": "31-10-2024",
+        "color": "#ffeaa7"
     }
-    
-    
-   
+      
   
-  
-       
 ];
 
 
