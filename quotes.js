@@ -1366,32 +1366,32 @@ var quotes = [
       "color": "#ffeaa7"
     },
     {
-      "phrase": "01-10-2024: 'E começou o melhor mes do ano, o primeiro passo para o sucesso é acreditar em si mesmo.'",
+      "phrase": "01-10-2024: Faltam 10 dias: 'E começou o melhor mes do ano, o primeiro passo para o sucesso é acreditar em si mesmo.'",
       "date": "01-10-2024",
       "color": "#ffeaa7"
     },
     {
-        "phrase": "02-10-2024: 'Faltam 10 dias: Cada passo dado hoje constrói o caminho para o amanhã, e o amanha é o pra sempree ❤️❤️❤️❤️'",
+        "phrase": "02-10-2024: 'Faltam 9 dias: Cada passo dado hoje constrói o caminho para o amanhã, e o amanha é o pra sempree ❤️❤️❤️❤️'",
         "date": "02-10-2024",
         "color": "#fab1a0"
     },
     {
-        "phrase": "03-10-2024: 'Faltam 9 dias: A perseverança transforma sonhos em realidade.'",
+        "phrase": "03-10-2024: 'Faltam 8 dias: A perseverança transforma sonhos em realidade.'",
         "date": "03-10-2024",
         "color": "#ff7675"
     },
     {
-        "phrase": "04-10-2024: 'Faltam 8 dias: Pequenas conquistas diárias levam a grandes vitórias. ajuda uma pessoa hj :)'",
+        "phrase": "04-10-2024: 'Faltam 7 dias: Pequenas conquistas diárias levam a grandes vitórias. ajuda uma pessoa hj :)'",
         "date": "04-10-2024",
         "color": "#fd79a8"
     },
     {
-        "phrase": "05-10-2024: 'Faltam 7 dias: Encare os desafios com coragem, eles te fortalecem.'",
+        "phrase": "05-10-2024: 'Faltam 6 dias: Encare os desafios com coragem, eles te fortalecem.'",
         "date": "05-10-2024",
         "color": "#e84393"
     },
     {
-        "phrase": "06-10-2024: 'Faltam 6 dias: Achou que ia ser só textinho fofo, hj é dia de desafio: Explique o papel do ciclo do hidrogênio na Terra, destacando sua relação com o ciclo da água e o ciclo do carbono. Em sua resposta, mencione as principais transformações do hidrogênio em processos biológicos e geológicos, bem como sua importância para os sistemas naturais e tecnológicos.'",
+        "phrase": "06-10-2024: 'Faltam 5 dias: Achou que ia ser só textinho fofo, hj é dia de desafio: Explique o papel do ciclo do hidrogênio na Terra, destacando sua relação com o ciclo da água e o ciclo do carbono. Em sua resposta, mencione as principais transformações do hidrogênio em processos biológicos e geológicos, bem como sua importância para os sistemas naturais e tecnológicos.'",
         "date": "06-10-2024",
         "color": "#d63031"
     },
@@ -1401,17 +1401,17 @@ var quotes = [
         "color": "#fdcb6e"
     },
     {
-        "phrase": "08-10-2024: 'Faltam 4 dias: Com determinação, você pode superar qualquer obstáculo.'",
+        "phrase": "08-10-2024: 'Faltam 3 dias: Com determinação, você pode superar qualquer obstáculo.'",
         "date": "08-10-2024",
         "color": "#55efc4"
     },
     {
-        "phrase": "09-10-2024: 'Faltam 3 dias: A contagem é pro meu aniversario. mas hj a gente ta fazz um anoo do primeiro beijoo. teeeeee amooooooooo ❤️❤️❤️'",
+        "phrase": "09-10-2024: 'Faltam 2 dias: A contagem é pro meu aniversario. mas hj a gente ta fazz um anoo do primeiro beijoo. teeeeee amooooooooo ❤️❤️❤️'",
         "date": "09-10-2024",
         "color": "#74b9ff"
     },
     {
-        "phrase": "10-10-2024: 'Faltam 2 dias: Tu é a pessoinha que eu mais adimiro nesse mundo Todinhooo, hj faz um anoo da primeira rosa que eu te dei  ❤️❤️❤️❤️❤️'",
+        "phrase": "10-10-2024: 'Faltam 1 dias: Tu é a pessoinha que eu mais adimiro nesse mundo Todinhooo, hj faz um anoo da primeira rosa que eu te dei  ❤️❤️❤️❤️❤️'",
         "date": "10-10-2024",
         "color": "#a29bfe"
     },
