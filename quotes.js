@@ -1519,8 +1519,161 @@ var quotes = [
         "phrase": "31-10-2024: 'Encerramos outubro, mas novos começos sempre surgem no horizonte.'",
         "date": "31-10-2024",
         "color": "#ffeaa7"
+    },
+    {
+      "phrase": "01-11-2024: 'Felizzz ummm anooo de Namoroooo ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️  Euuuuuuu teeeee amooooo maisss queee tudooo'",
+      "date": "01-11-2024",
+      "color": "#fdcb6e"
+  },
+
+    {
+        "phrase": "02-11-2024: 'Felizzz ummm anooo de Namoroooo '",
+        "date": "02-11-2024",
+        "color": "#fdcb6e"
+    },
+    {
+        "phrase": "03-11-2024: 'Diaaa de Enemm, eu seuu que ta sendoo dificill, tuu vaiii dominarr o mundoooo ❤️❤️❤️❤️❤️❤️'",
+        "date": "03-11-2024",
+        "color": "#55efc4"
+    },
+    {
+        "phrase": "04-11-2024: 'O tempo é o melhor amigo de quem sabe esperar.'",
+        "date": "04-11-2024",
+        "color": "#fab1a0"
+    },
+    {
+        "phrase": "05-11-2024: 'Sou muito  gratooo por te ter na minha vidaaa meu anjooo ",
+        "date": "05-11-2024",
+        "color": "#e17055"
+    },
+    {
+        "phrase": "06-11-2024: 'O amanhã começa nas escolhas que fazemos hoje.'",
+        "date": "06-11-2024",
+        "color": "#74b9ff"
+    },
+    {
+        "phrase": "07-11-2024: 'Seja a mudança que deseja ver no mundo.'",
+        "date": "07-11-2024",
+        "color": "#d63031"
+    },
+    {
+        "phrase": "08-11-2024: 'A genteee pra ssseempreee, teeeeee amooooo muitoooooo'",
+        "date": "08-11-2024",
+        "color": "#00cec9"
+    },
+    {
+        "phrase": "09-11-2024: 'Hojee, euu souu juradooo, too esperandoo textinhooo pra mim responder dessa vezz :)))'",
+        "date": "09-11-2024",
+        "color": "#e84393"
+    },
+    {
+        "phrase": "10-11-2024: 'Enemmm de Novoooo, Boaaa provaa Amoorrr'",
+        "date": "10-11-2024",
+        "color": "#ffeaa7"
+    },
+    {
+        "phrase": "11-11-2024: 'A força está em nunca desistir.'",
+        "date": "11-11-2024",
+        "color": "#a29bfe"
+    },
+    {
+        "phrase": "12-11-2024: 'Que os ventos levem o que é desnecessário.'",
+        "date": "12-11-2024",
+        "color": "#fd79a8"
+    },
+    {
+        "phrase": "13-11-2024: 'Seja luz onde quer que vá.'",
+        "date": "13-11-2024",
+        "color": "#81ecec"
+    },
+    {
+        "phrase": "14-11-2024: 'A vida é um eterno aprender.'",
+        "date": "14-11-2024",
+        "color": "#6c5ce7"
+    },
+    {
+        "phrase": "15-11-2024: 'Playyy nas comemoraçõess, Boraaaa Uelllll'",
+        "date": "15-11-2024",
+        "color": "#ff7675"
+    },
+    {
+        "phrase": "16-11-2024: 'Transforme cada dificuldade em uma lição.'",
+        "date": "16-11-2024",
+        "color": "#00b894"
+    },
+    {
+        "phrase": "17-11-2024: 'Valorize cada passo da jornada.'",
+        "date": "17-11-2024",
+        "color": "#fdcb6e"
+    },
+    {
+        "phrase": "18-11-2024: 'Acredite na beleza dos seus sonhos.'",
+        "date": "18-11-2024",
+        "color": "#55efc4"
+    },
+    {
+        "phrase": "19-11-2024: 'Crescer é aceitar o novo e deixar o velho para trás.'",
+        "date": "19-11-2024",
+        "color": "#fab1a0"
+    },
+    {
+        "phrase": "20-11-2024: 'Um feriaadooo pq merecemoss descaçarr née'",
+        "date": "20-11-2024",
+        "color": "#e17055"
+    },
+    {
+        "phrase": "21-11-2024: 'A paz está em aceitar o que não podemos mudar.'",
+        "date": "21-11-2024",
+        "color": "#74b9ff"
+    },
+    {
+        "phrase": "22-11-2024: 'Tudo o que vai, volta. Que seja o bem.'",
+        "date": "22-11-2024",
+        "color": "#d63031"
+    },
+    {
+        "phrase": "23-11-2024: 'Cada sonho é uma nova esperança de vida.'",
+        "date": "23-11-2024",
+        "color": "#00cec9"
+    },
+    {
+        "phrase": "24-11-2024: 'Vidinhaaa, simplismente te  amoooooo '",
+        "date": "24-11-2024",
+        "color": "#e84393"
+    },
+    {
+        "phrase": "25-11-2024: 'Permita-se ser quem você realmente é.'",
+        "date": "25-11-2024",
+        "color": "#ffeaa7"
+    },
+    {
+        "phrase": "26-11-2024: 'Sonhe grande e trabalhe para realizá-lo.'",
+        "date": "26-11-2024",
+        "color": "#a29bfe"
+    },
+    {
+        "phrase": "27-11-2024: 'Sorria para a vida e ela sorrirá de volta.'",
+        "date": "27-11-2024",
+        "color": "#fd79a8"
+    },
+    {
+        "phrase": "28-11-2024: 'Teeeee amoooooo millllll milhõessss ❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️'",
+        "date": "28-11-2024",
+        "color": "#81ecec"
+    },
+    {
+        "phrase": "29-11-2024: 'A bondade é a chave para abrir todas as portas.'",
+        "date": "29-11-2024",
+        "color": "#6c5ce7"
+    },
+    {
+        "phrase": "30-11-2024: 'Dezembroooo taaa quasee, aii, duvidoo tu me surprender hj :)))'",
+        "date": "30-11-2024",
+        "color": "#ff7675"
     }
-      
+
+
+    
   
 ];
 
