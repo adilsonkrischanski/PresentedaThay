@@ -1670,8 +1670,127 @@ var quotes = [
         "phrase": "30-11-2024: 'Dezembroooo taaa quasee, aii, duvidoo tu me surprender hj :)))'",
         "date": "30-11-2024",
         "color": "#ff7675"
-    }
-
+    },
+    {
+      "phrase": "01-12-2024: 'Dezembro começou, e cada dia com você é um presente que só aumenta meu amor. ❤️'",
+      "date": "01-12-2024",
+      "color": "#74b9ff"
+  },
+  {
+      "phrase": "02-12-2024: 'Rosa é vermelha violeta é azul, eu nao sei escrever poema, só sei que te amooooooo '",
+      "date": "02-12-2024",
+      "color": "#fab1a0"
+  },
+  {
+      "phrase": "03-12-2024: 'Você é a estrela que ilumina meus dias e meu coraçãoooo'",
+      "date": "03-12-2024",
+      "color": "#fdcb6e"
+  },
+  {
+      "phrase": "04-12-2024: 'Contigoo cada momento é único, e meu amor só cresce  mais e mais a cada dia. ❤️✨'",
+      "date": "04-12-2024",
+      "color": "#a29bfe"
+  },
+  {
+      "phrase": "05-12-2024: 'Tuuuu é o motivo de cada sorriso e de cada sonhoss que vira um plano ao teu lado ❤️'",
+      "date": "05-12-2024",
+      "color": "#e17055"
+  },
+  {
+      "phrase": "06-12-2024: 'Meu coração só sabe dizer o quanto te amo, hoje e sempreeee. ❤️❤️❤️❤️'",
+      "date": "06-12-2024",
+      "color": "#55efc4"
+  },
+  {
+      "phrase": "07-12-2024: 'O amor que sinto por você é a minha força a minha paz e as minha cocegas. '",
+      "date": "07-12-2024",
+      "color": "#ffeaa7"
+  },
+  {
+      "phrase": "08-12-2024: 'Amooo vocêee, gostooo tantooooo deeee voceeeee.... O desafioo do diaa é tuu cantarr'",
+      "date": "08-12-2024",
+      "color": "#636e72"
+  },
+  {
+      "phrase": "09-12-2024: 'Com você, tudo é mais bonito, e o meu amor só cresce. ❤️✨'",
+      "date": "09-12-2024",
+      "color": "#81ecec"
+  },
+  {
+      "phrase": "10-12-2024: ' O meu maior presente é poder te amar dia apóss diaa. Amuuu Tuuu ❤️🎁'",
+      "date": "10-12-2024",
+      "color": "#d63031"
+  },
+  {
+    "phrase": "11-12-2024: 'Amar você é como respirar, algo que faço sem nem perceber. ❤️'",
+    "date": "11-12-2024",
+    "color": "#74b9ff"
+},
+{
+    "phrase": "12-12-2024: 'Meu coração encontrou o lar perfeito no teu amor. ❤️'",
+    "date": "12-12-2024",
+    "color": "#fab1a0"
+},
+{
+    "phrase": "13-12-2024: 'Nos seus olhos vejo o reflexo dos meus sonhos mais lindos. ❤️✨",
+    "date": "13-12-2024",
+    "color": "#fdcb6e"
+},
+{
+    "phrase": "14-12-2024: 'Cada abraço teu é como um poema que aquece minha alma. ❤️'",
+    "date": "14-12-2024",
+    "color": "#a29bfe"
+},
+{
+    "phrase": "15-12-2024: 'Ao teu lado, todos os dias são especiais e cheios de amor. ❤️'",
+    "date": "15-12-2024",
+    "color": "#e17055"
+},
+{
+    "phrase": "16-12-2024: 'O mundo pode mudar, mas meu amor por você é eterno. ❤️'",
+    "date": "16-12-2024",
+    "color": "#55efc4"
+},
+{
+    "phrase": "17-12-2024: 'O teu sorriso é a minha maior fonte de felicidade. ❤️'",
+    "date": "17-12-2024",
+    "color": "#ffeaa7"
+},
+{
+    "phrase": "18-12-2024: 'Te amo com a força de mil constelações. Tee amooo milll milhoesss'",
+    "date": "18-12-2024",
+    "color": "#636e72"
+},
+{
+    "phrase": "19-12-2024: 'tuuu é o o mais brlo capítulo da minha história. ❤️📖'",
+    "date": "19-12-2024",
+    "color": "#81ecec"
+},
+{
+    "phrase": "20-12-2024: 'Cada vez que penso em você, meu coração sorri. '",
+    "date": "20-12-2024",
+    "color": "#d63031"
+},
+{
+    "phrase": "21-12-2024: 'O teu amor é a melhor parte dos meus diass. ❤️☀️'",
+    "date": "21-12-2024",
+    "color": "#fab1a0"
+},
+{
+    "phrase": "22-12-2024: 'emm você, encontrei tudo o que sempre sonhei. '",
+    "date": "22-12-2024",
+    "color": "#fdcb6e"
+},
+{
+    "phrase": "23-12-2024: 'No teu amor, encontrei a paz que sempre procurei. ❤️🕊️'",
+    "date": "23-12-2024",
+    "color": "#a29bfe"
+},
+{
+    "phrase": "24-12-2024: 'Neste Natal...............'",
+    "date": "24-12-2024",
+    "color": "#e17055"
+}
 
     
   
